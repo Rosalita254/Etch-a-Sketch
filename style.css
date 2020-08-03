@@ -1,0 +1,32 @@
+body {
+    background-color: MediumBlue;
+}
+
+#backing {
+    border: solid;
+    background-color: white;
+    border-radius: 30px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 0;
+    font-size: 0;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 0;
+}
+
+#new-grid {
+    background-color: red;
+    border-radius: 15px;
+    width: 250px;
+    height: 65px;
+    display: block;
+    margin-top: 10px;
+    margin: 0 auto;
+    font-size: 2em;
+}
